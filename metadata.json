@@ -1,0 +1,6 @@
+{
+  "name": "FORGE Academia",
+  "description": "Landing page moderna e interativa para academia: planos, modalidades, horários, calculadora fitness e agendamento experimental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
